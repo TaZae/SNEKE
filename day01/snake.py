@@ -11,14 +11,14 @@ pygame.display.set_caption("~~SNEKE~~")
 
 # Set FSP and clock
 
-# Set game values
+# Set game values smake
 
 # Set colors
-
+ red = (255, 0, 0)
 # Set fonts
-
+hed = (255, 255, 0)
 # Set text
-
+ blue = (0, 0, 255)
 # Set sounds and music
 
 # Set images (in this case, use simple rects...so just create their coordinates)

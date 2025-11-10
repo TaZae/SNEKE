@@ -28,7 +28,7 @@ clock = pygame.time.Clock()
 # Set colors
 GREEN = (0, 255, 0)  # (r, g, b)
 # TODO: make a DARKGREEN color with rgb(10, 50, 10)
-# TODO: make a RED
+# TODO: make a   RED
 # TODO: make a DARKRED with rgb of (150, 0, 0)
 # TODO: make a WHITE
 
